@@ -3,7 +3,7 @@
 var request = require('request');
 var fs = require('fs');
 var tabletop = require('tabletop');
-var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1-CvUisj_21LEjfvU1QaHK3ZtEmrwquZhjDSekSMNO7A/pubhtml';
+var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/18RTvtQh3Ytzc-wQkyNR6LnHzDNFDcpLDFWlAAqrWZs0/pubhtml#';
 
 var current_branch = 'gh-pages';
 
