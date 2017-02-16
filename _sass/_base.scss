@@ -275,7 +275,7 @@ small {
   height: 600px;
   .jumbotron>.container {
       div.row:nth-child(2) {
-        padding-top: 100px;
+        padding-top: 30px;
       }
     }
 
@@ -290,7 +290,7 @@ small {
     h1 {
       color: #464c5d;
       font-weight:700;
-      font-size: 50px;
+      font-size: 64px;
       margin-top:95px;
       text-transform: uppercase;
       font-family: 'Lato', sans-serif;
@@ -299,7 +299,7 @@ small {
       color: #4c4b4b;
       font-size: 18px;
       line-height: 30px;
-      margin-bottom: 80px;
+      margin-bottom: 0;
       font-weight: 400;
       font-family: 'Lato', sans-serif;
     }
@@ -309,6 +309,18 @@ small {
   }
 }
 
+.fecha-avance{
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: #848484;
+}
+
+.btn-cumpli{
+  width: 300px;
+  heigth: 60px;
+  background: url(../img/header.png) 60%/auto no-repeat;
+}
 
 p.donut{
   text-align: center;
@@ -1098,7 +1110,7 @@ footer img {
     }
     .jumbotron {
       h1 {
-        margin-top:190px;
+        margin-top: 368px;
       }
       a {
           font-size: initial;
