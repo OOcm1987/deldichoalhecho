@@ -1144,3 +1144,31 @@ footer img {
     }
   }
 }
+
+@media (min-width:768px){
+  
+}
+
+@media (min-width:992px){
+  
+}
+
+@media (min-width:1200px){
+  
+}
+
+@media screen and (max-width:767px){
+  .center-text-welcome{
+    width: 100%;
+  }
+
+  #welcome .jumbotron h1{
+    font-size: 61px;
+    margin-top: 190px;
+    text-align: center;
+  }
+
+  #welcome .jumbotron > .container div.row:nth-child(2){
+    padding-left: 26px;
+  }
+}
