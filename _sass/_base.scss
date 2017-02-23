@@ -1178,3 +1178,14 @@ footer img {
     background: url(../img/header.png) -272px 56px no-repeat;
   }
 }
+
+@media screen and (max-width:320px){
+    #welcome .jumbotron h1{
+      font-size: 50px;
+      margin-top: 190px;
+    }
+
+    .not-pad{
+      padding: 0;
+    }
+}
