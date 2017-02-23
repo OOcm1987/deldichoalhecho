@@ -1098,7 +1098,7 @@ footer img {
   }
 
   #welcome {
-    background: url(../img/header.png) -212px 180px no-repeat;
+    background: url(../img/header.png) -318px 180px no-repeat;
     height: 761px;
     h1 {
       margin-top:255px;
@@ -1135,6 +1135,10 @@ footer img {
     padding: {
       top: 80px;
     }
+  }
+
+  .center-text-welcome{
+    width: 64%;
   }
 }
 
