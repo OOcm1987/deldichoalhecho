@@ -1098,7 +1098,7 @@ footer img {
   }
 
   #welcome {
-    background: url(../img/header.png) center 172px no-repeat;
+    background: url(../img/header.png) -212px 180px no-repeat;
     height: 761px;
     h1 {
       margin-top:255px;
@@ -1106,6 +1106,7 @@ footer img {
     .jumbotron {
       h1 {
         margin-top: 368px;
+        font-size: 60px;
       }
       a {
           font-size: initial;
@@ -1143,10 +1144,6 @@ footer img {
       height: 250px;
     }
   }
-}
-
-@media (min-width:768px){
-  
 }
 
 @media (min-width:992px){
