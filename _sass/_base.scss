@@ -1169,6 +1169,11 @@ footer img {
   }
 
   #welcome .jumbotron > .container div.row:nth-child(2){
-    padding-left: 26px;
+    padding-left: 38px;
+    padding-top: 200px;
+  }
+
+  #welcome {
+    background: url(../img/header.png) -272px 56px no-repeat;
   }
 }
