@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ciudadanointeligente/observatorio-21-05-16.git"
+    "url": "git@github.com:OOcm1987/deldichoalhecho.git"
   },
   "author": "",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/ciudadanointeligente/observatorio-21-05-16/issues"
+    "url": "https://github.com/OOcm1987/deldichoalhecho/issues"
   },
   "dependencies": {
     "grunt": "~0.4.5",
