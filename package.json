@@ -1,5 +1,5 @@
 {
-  "name": "observatorio-21-05-16",
+  "name": "deldichoalhecho",
   "version": "0.0.1",
   "description": "Observatorio AntiCorrupcion",
   "main": "Gruntfile.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:OOcm1987/deldichoalhecho.git"
+    "url": "git://github.com:OOcm1987/deldichoalhecho.git"
   },
   "author": "",
   "license": "BSD",
