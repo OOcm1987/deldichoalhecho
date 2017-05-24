@@ -3,7 +3,7 @@
         {
             "id": 1,
             "category": "Agricultura",
-            "cumplimiento_total": 0,
+            "cumplimiento_total": 2,
             "coherencia_total": "1.0",
             "status": {
                 "completas": 0,
