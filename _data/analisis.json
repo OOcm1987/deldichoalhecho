@@ -3,7 +3,7 @@
         {
             "id": 1,
             "category": "Agricultura",
-            "cumplimiento_total": 0,
+            "cumplimiento_total": 1,
             "coherencia_total": "1.0",
             "status": {
                 "completas": 0,
@@ -14,7 +14,7 @@
                 {
                     "id": "1",
                     "promesa": "Enviaremos el Proyecto de Ley que crea el Sistema Nacional de Inocuidad y Calidad Alimentaria y la Agencia Chilena para la Inocuidad y Calidad Alimentaria.",
-                    "cumplimiento_total": "0%",
+                    "cumplimiento_total": "23%",
                     "coherencia_total": "1",
                     "justificacion_avance": "No se encontraron iniciativas al respecto.",
                     "justificacion_nota": "No se encontraron iniciativas al respecto."
